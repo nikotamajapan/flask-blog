@@ -3,6 +3,13 @@
 https://www.youtube.com/watch?v=VtJ-fGm4gNg&amp;t=1095s
 完全版】この動画1本でFlaskの基礎を習得！忙しい人のための速習コース（Flask超入門）
 
+でバックモード
+export FLASK_ENV=development
+
+下記とはpythonのファイル名が違うのでこちらで対応
+export FLASK_APP=app
+export FLASK_ENV=development
+
 git cloneで新しいフォルダに引っ越ししてきた場合は
 環境が揃ってないので下記が必要
 　
